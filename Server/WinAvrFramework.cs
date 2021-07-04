@@ -100,7 +100,6 @@ namespace WinAvrFramework
             // Shutdown computer
             if (command == "shutdown")
             {
-                Process.Start("calc.exe");
                 Process.Start("shutdown", "/s /t 0");
             }
 
