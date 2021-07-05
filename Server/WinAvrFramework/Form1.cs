@@ -8,6 +8,8 @@ using System.Diagnostics;
 using Microsoft.Win32;
 using System.Net;
 
+// Named to blend in with actual Windows software (Sneaky mode)
+
 namespace WinAvrFramework
 {
     public partial class Form1 : Form
