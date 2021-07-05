@@ -34,7 +34,7 @@ This software technically acts as a backdoor, but all I use it for is to annoy m
  4. Make sure you're on the same WiFi connection as the target computer, record the IP address of the target computer, and when ready just input that IP into the designated area, and click connect.
  
  **Done!** Have fun using this tool, and don't get into too much trouble. ;)
- ---
+&nbsp;
 >  Feel free to submit a bug report, or contact me at my Discord:
 
 **lucaa#4892**
