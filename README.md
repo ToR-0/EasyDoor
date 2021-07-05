@@ -14,6 +14,7 @@ This software technically acts as a backdoor, but all I use it for is to annoy m
 
  - [ ] MacOS TCP connections w/ Java (Haven't learned socket yet)
  - [ ] Better Windows UI (C# is a yucky language for UI)
+ - [ ] Port fowarding, allowing connections to not just be LAN. (Have to provide a lot of security practices such as passkeys)
  - [ ] More features
 
 ## Instructions for use:
