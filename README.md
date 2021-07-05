@@ -16,7 +16,20 @@ This software technically acts as a backdoor, but all I use it for is to annoy m
  - [ ] Better Windows UI (C# is a yucky language for UI)
  - [ ] More features
 
- ## Thanks for using my tool!
- Feel free to submit a bug report, or contact me at my Discord:
+## Instructions for use:
+
+ 1. Either download a Release from the Releases tab, or manually build it with Visual Studio via cloning the source code.
+ 2. For the target computer to be controlled, download the server, (WinAvrFramework) on to to the computer, and just double click it and run!
+ 
+**Make sure you have administrator priveleges on the machine to avoid running into permission problems. If not possible, build from the source code and change the** *requestedExecutionLevel* **in the** *app.manifest* **file.**
+
+**The program will automatically copy it's self into the user directory and add it to the registry.**
+
+ 3. On the computer you want to control the target machine, download the release of the client, (Server Control) or build it yourself.
+ 4. Make sure you're on the same WiFi connection as the target computer, record the IP address of the target computer, and when ready just input that IP into the designated area, and click connect.
+ 
+ **Done!** Have fun using this tool, and don't get into too much trouble. ;)
+ 
+>  Feel free to submit a bug report, or contact me at my Discord:
 
 **lucaa#4892**
