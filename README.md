@@ -22,7 +22,7 @@ This software technically acts as a backdoor, but all I use it for is to annoy m
  1. Either download a Release from the Releases tab, or manually build it with Visual Studio via cloning the source code.
  2. For the target computer to be controlled, download the server, (WinAvrFramework) on to to the computer, and just double click it and run!
  
-**Make sure you have administrator priveleges on the machine to avoid running into permission problems. If not possible, build from the source code and change the** *requestedExecutionLevel* **in the** *app.manifest* **file.**
+**Make sure you have administrator priveleges on the target machine to avoid running into permission problems. If not possible, build from the source code and change the** *requestedExecutionLevel* **in the** *app.manifest* **file.**
 
 **The program will automatically copy it's self into the user directory and add it to the registry.**
 
