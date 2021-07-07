@@ -8,10 +8,10 @@ This software technically acts as a backdoor, but all I use it for is to annoy m
 
  **All built in C# with no NuGet packages**
 
- 1. **Shutdown** - *Shutdown the computer remotely*
- 2. **Minecraft** - *Closes all instances of Java and Lunar Client.*
- 3. **Monkey** - *Opens 100 windows of Chromium with assorted monkey pics. That's a lot of memory.
- 4. **Custom Downloads** - *If these features don't suit your needs, code your own custom Windows executable and execute it by providing a URL. *
+ 1. **Shutdown** - Shutdown the computer remotely
+ 2. **Minecraft** - Closes all instances of Java and Lunar Client.
+ 3. **Monkey** - Opens 100 windows of Chromium with assorted monkey pics. That's a lot of memory.
+ 4. **Custom Downloads** - If these features don't suit your needs, code your own custom Windows executable and execute it by providing a URL.
 
 ## Coming soon:
 
